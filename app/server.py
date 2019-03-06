@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1hyIybfZOIsDPF3jL8ewmW5TuGSWdyn-6'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1ZsTzRHXJz4DNf2o1hSP37ynDqqlqQ3ne'
 export_file_name = 'export.pkl'
 
 classes = ['beard', 'moustache']
